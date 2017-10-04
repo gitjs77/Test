@@ -54,7 +54,7 @@ public class TestClass {
 
 //        System.out.println(new TestClass().createTableTittlesByClassFields(TestClass.class));
 
-        System.out.println(new TestClass().createTableByAllClassFields(TestClass.class, new TestClass()));
+        System.out.println(new TestClass().createTableByAllClassFields(new TestClass()));
 
 //        System.out.println(TestClass.class.getDeclaredField("field"));
     }
@@ -69,9 +69,9 @@ public class TestClass {
 
     }
 
-    private Map<String, String> createTableByAllClassFields(final Class clazz, final TestClass entity) {
+    private Map<String, String> createTableByAllClassFields(final TestClass entity) {
 
-        return Arrays.stream(clazz.getDeclaredFields())
+        return Arrays.stream(entity.getClass().getDeclaredFields())
                 .collect(
                         Collectors.toMap(
                                 field -> field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1) + ":",//creates kay
