@@ -1,5 +1,8 @@
 package hashcode;
 
+import com.sun.org.apache.bcel.internal.generic.INSTANCEOF;
+import sun.security.jca.GetInstance;
+
 import java.lang.reflect.Field;
 import java.util.*;
 import java.util.stream.Collectors;
@@ -13,6 +16,7 @@ public class TestClass {
     private Integer field2;
     private Integer field3;
     private Integer field4;
+    TestClass testClass;
 
     public String getField() {
         return field;
@@ -74,9 +78,9 @@ public class TestClass {
         return Arrays.stream(entity.getClass().getDeclaredFields())
                 .collect(
                         Collectors.toMap(
-                                field -> field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1) + ":",//creates kay
-                                field -> getDeclaredFieldValue(field.getName(), entity),//get field value
-                                (oldValue, newValue) -> oldValue,//if map have duplicates key - use first value by this kay
+                                field -> field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1) + ":",// creates key
+                                field -> getDeclaredFieldValue(field.getName(), entity),// get field value
+                                (oldValue, newValue) -> oldValue,// if map have duplicates key - use first value by this key
                                 LinkedHashMap::new // generates LinkedHashMap for save additional order
                         )
                 );
