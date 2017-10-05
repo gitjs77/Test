@@ -75,7 +75,7 @@ public class TestClass {
 
     private Map<String, String> createTableByAllClassFields(final TestClass entity) {
 
-        return Arrays.stream(entity.getClass().getDeclaredFields())
+        return Arrays.stream(entity.getClass().getDeclaredFields()).peek(field -> field.setAccessible(true))
                 .collect(
                         Collectors.toMap(
                                 field -> field.getName().substring(0, 1).toUpperCase() + field.getName().substring(1) + ":",// creates key
