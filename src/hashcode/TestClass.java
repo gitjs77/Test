@@ -7,6 +7,8 @@ import java.lang.reflect.Field;
 import java.util.*;
 import java.util.stream.Collectors;
 
+import static java.util.Objects.hash;
+
 /**
  * @Author Jack <e.kobets>
  */
@@ -16,8 +18,8 @@ public class TestClass {
     private Integer field2;
     private Integer field3;
     private Integer field4;
-    TestClass testClass;
 
+    
     public String getField() {
         return field;
     }
