@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="605259c9-8de7-47d2-b667-2a1520079027" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Diff/Defoult/SecondStartDump.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/firstVpnVtb.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/secondVpnVtb.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Diff/Defoult/firstStartDump.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RecursiveFileSearch/FileSearch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Test.iml" afterPath="$PROJECT_DIR$/Test.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/methodReferenceMap/MethodReferenceMap.class" afterPath="$PROJECT_DIR$/out/production/Test/methodReferenceMap/MethodReferenceMap.class" />
-      <change beforePath="$PROJECT_DIR$/src/AbstractClass.java" afterPath="$PROJECT_DIR$/src/AbstractClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/AccessModifiers.java" afterPath="$PROJECT_DIR$/src/AccessModifiers.java" />
-      <change beforePath="$PROJECT_DIR$/src/BigDecimalTestScale.java" afterPath="$PROJECT_DIR$/src/BigDecimalTestScale.java" />
-      <change beforePath="$PROJECT_DIR$/src/BooleanCasting.java" afterPath="$PROJECT_DIR$/src/BooleanCasting.java" />
-      <change beforePath="$PROJECT_DIR$/src/Child.java" afterPath="$PROJECT_DIR$/src/Child.java" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorWithExceptions.java" afterPath="$PROJECT_DIR$/src/ConstructorWithExceptions.java" />
-      <change beforePath="$PROJECT_DIR$/src/ConstructorsInitInInheritance.java" afterPath="$PROJECT_DIR$/src/ConstructorsInitInInheritance.java" />
-      <change beforePath="$PROJECT_DIR$/src/IntegerPool.java" afterPath="$PROJECT_DIR$/src/IntegerPool.java" />
-      <change beforePath="$PROJECT_DIR$/src/OOP.java" afterPath="$PROJECT_DIR$/src/OOP.java" />
-      <change beforePath="$PROJECT_DIR$/src/Parent.java" afterPath="$PROJECT_DIR$/src/Parent.java" />
-      <change beforePath="$PROJECT_DIR$/src/ReflectionTest.java" afterPath="$PROJECT_DIR$/src/ReflectionTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/StaticCallNonStatic.java" afterPath="$PROJECT_DIR$/src/StaticCallNonStatic.java" />
-      <change beforePath="$PROJECT_DIR$/src/Test1.java" afterPath="$PROJECT_DIR$/src/Test1.java" />
-      <change beforePath="$PROJECT_DIR$/src/TestEnum.java" afterPath="$PROJECT_DIR$/src/TestEnum.java" />
-      <change beforePath="$PROJECT_DIR$/src/hashcode/TestClass.java" afterPath="$PROJECT_DIR$/src/hashcode/TestClass.java" />
-      <change beforePath="$PROJECT_DIR$/src/interface_extends/ChildInterface1.java" afterPath="$PROJECT_DIR$/src/interface_extends/ChildInterface1.java" />
-      <change beforePath="$PROJECT_DIR$/src/interface_extends/ChildInterface2.java" afterPath="$PROJECT_DIR$/src/interface_extends/ChildInterface2.java" />
-      <change beforePath="$PROJECT_DIR$/src/interface_extends/ParentInterface.java" afterPath="$PROJECT_DIR$/src/interface_extends/ParentInterface.java" />
-      <change beforePath="$PROJECT_DIR$/src/interface_extends/TestMultyImplements.java" afterPath="$PROJECT_DIR$/src/interface_extends/TestMultyImplements.java" />
-      <change beforePath="$PROJECT_DIR$/src/methodReferenceMap/MethodReferenceMap.java" afterPath="$PROJECT_DIR$/src/methodReferenceMap/MethodReferenceMap.java" />
-    </list>
+    <list default="true" id="605259c9-8de7-47d2-b667-2a1520079027" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,14 +35,14 @@
       <file leaf-file-name="MethodReferenceMapWithWarargs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="1008">
+              <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
                 <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#868#869#0" expanded="true" />
+                <element signature="e#896#897#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -777,7 +741,7 @@
       <workItem from="1511445118677" duration="37000" />
       <workItem from="1511624469238" duration="807000" />
       <workItem from="1513158031498" duration="443000" />
-      <workItem from="1516014702313" duration="3823000" />
+      <workItem from="1516014702313" duration="4216000" />
     </task>
     <task id="LOCAL-00001" summary="ConstructorsInitInInheritance">
       <created>1501368037204</created>
@@ -825,10 +789,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59303000" />
+    <option name="totallyTimeSpent" value="59696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -840,7 +805,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32723358" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32723358" sideWeight="0.4957265" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16025642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1285,14 +1250,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="1008">
+          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#868#869#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
           </folding>
         </state>
       </provider>

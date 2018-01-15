@@ -16,7 +16,7 @@ public class MethodReferenceMapWithWarargs {
     }
 
     public Object callMapMethodByKey(final String key, final Object... args){
-        return this.getMap().get(key).apply(args);
+        return this.getMap().get(key).executeMethod(args);
     }
 
     public Map<String, MyFunction<?>> getMap() {
@@ -37,6 +37,6 @@ public class MethodReferenceMapWithWarargs {
 }
 @FunctionalInterface
 interface MyFunction<R> {
-    R apply(Object... args);
+    R executeMethod(Object... args);
 }
 
