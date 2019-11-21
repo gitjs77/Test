@@ -11261,8 +11261,8 @@ COPY multicasting_package (id, is_deleted, distribution_id, create_time, publica
 2	0	2	2017-04-10 14:23:12	\N	Депозит весенний	Акция. Депозит для постоянных келиентов	new
 3	0	4	2017-04-11 13:00:01	2017-04-11 13:24:59	Кредиты под 10%	Кредит на развитие бизнеса	processing
 4	0	3	2017-04-11 09:15:57	2017-04-11 09:23:44	Новое отделение	Открыто новое отделение по адресу ...	completed
-5	0	5	2017-04-11 09:15:57	2017-04-11 13:24:59	Test 1	Test message 1	new
-6	0	6	2017-04-11 09:15:57	2017-04-11 13:24:59	Test 2	Test message 2	processing
+5	0	5	2017-04-11 09:15:57	2017-04-11 13:24:59	CreateRandomPassword 1	CreateRandomPassword message 1	new
+6	0	6	2017-04-11 09:15:57	2017-04-11 13:24:59	CreateRandomPassword 2	CreateRandomPassword message 2	processing
 \.
 
 

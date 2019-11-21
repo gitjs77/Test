@@ -52,7 +52,7 @@ public class TestClass {
 //
 //
 //        Integer varOuter = 7;
-//        List<Integer> integerList = Arrays.asList(7);
+//        List<Integer> integerList = ArraysExample.asList(7);
 //        integerList = integerList.stream()
 //                .map(i -> i + varOuter)
 //                .collect(Collectors.toList());
