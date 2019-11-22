@@ -2,35 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="605259c9-8de7-47d2-b667-2a1520079027" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateRandomPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LogicOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PlantUML.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PutNullIntoTheMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveItemsFromList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StockReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumAllElementsFrom1To1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestLambdaFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/education_base/BusinessCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum_compare/EnumCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groupingByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/SecondStartDump.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/SecondStartDump.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/VPNVTB/firstVpnVtb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/VPNVTB/firstVpnVtb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/VPNVTB/secondVpnVtb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/VPNVTB/secondVpnVtb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/firstStartDump.sql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Diff/Defoult/firstStartDump.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/RemoveItemsFromList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/RemoveItemsFromList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test/Test$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diff/Defoult/SecondStartDump.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diff/Defoult/SecondStartDump.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/firstVpnVtb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/firstVpnVtb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/secondVpnVtb.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB/secondVpnVtb.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Diff/Defoult/firstStartDump.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Diff/Defoult/firstStartDump.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashcode/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashcode/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodreferenceMapWithWarargs/MethodReferenceMapWithWarargs.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,16 +51,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Diff/Defoult" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/Diff/Defoult/VPNVTB" />
       <recent name="$PROJECT_DIR$/src/Diff" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Diff/Defoult" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -98,7 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveItemsFromList">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -215,8 +192,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveItemsFromList" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RemoveItemsFromList" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.MethodReferenceMapWithWarargs" />
         <item itemvalue="Application.LogicOperations" />
@@ -339,7 +316,11 @@
       <workItem from="1574217241299" duration="2840000" />
       <workItem from="1574286864299" duration="1104000" />
       <workItem from="1574360303771" duration="1003000" />
-      <workItem from="1574368855923" duration="3145000" />
+      <workItem from="1574368855923" duration="4203000" />
+      <workItem from="1574375912158" duration="803000" />
+      <workItem from="1574376800566" duration="128000" />
+      <workItem from="1574376932216" duration="17000" />
+      <workItem from="1574379998042" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="ConstructorsInitInInheritance">
       <created>1501368037204</created>

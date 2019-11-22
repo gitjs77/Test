@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
-public class Test {
+public class CountCharacters {
     public static void main(String[] args) {
         System.out.println(countCharacters("www.jackkobec.com"));
         System.out.println(countCharacters(null));
